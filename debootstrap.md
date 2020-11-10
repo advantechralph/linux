@@ -5,7 +5,7 @@ References
 ---
 
 - [DebootstrapChroot](https://wiki.ubuntu.com/DebootstrapChroot)
-
+- [QemuDebootstrap](https://wiki.ubuntu.com/ARM/RootfsFromScratch/QemuDebootstrap)
 
 Command Usage
 ---
