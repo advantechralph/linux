@@ -1,6 +1,19 @@
 QEMU
 ===
 
+compile qemu
+---
+
+```
+$ wget https://download.qemu.org/qemu-2.12.0-rc3.tar.xz
+$ tar -xvf qemu-2.12.0-rc3.tar.xz
+$ cd qemu-2.12.0-rc3
+$ ./configure --target-list=arm-softmmu,aarch64-softmmu
+$ make 
+
+
+```
+
 
 test 1 
 ----
